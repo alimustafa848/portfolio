@@ -1,0 +1,17 @@
+
+
+/* @font-face */ 
+
+@font-face{
+    font-family: "Roboto";
+    src: '../fonts/Roboto/Roboto-Regular.ttf';
+}
+
+@font-face{
+    font-family:"agustina_2";
+    src: url('../fonts/agustina_2/Agustina-Demo.ttf');
+}
+@font-face{
+    font-family:"agustina_3";
+    src: url('../fonts/agustina_3/Agustina-Signature.otf');
+}
